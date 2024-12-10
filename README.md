@@ -29,11 +29,9 @@ Store the extracted attributes in a CSV file for further analysis.
 
 Outputs
 Image Format Counts:
-
-
 Count of readable and unreadable images.
-Extracted Attributes:
 
+Extracted Attributes:
 Key attributes (Serial Number, Model Number, Manufacturer Name) saved in a CSV file.
 
 Processing Summary:
